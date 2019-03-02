@@ -29,9 +29,9 @@ async def pug(ctx):
 
     list_of_forced_players = []
     number_of_forced_players = int
-    voice_channel = discord.utils.get(ctx.guild.channels, id=542042691811409973)
-    team_1_vc = discord.utils.get(ctx.guild.channels, id=546297542158057492)
-    team_2_vc = discord.utils.get(ctx.guild.channels, id=546337215911952384)
+    voice_channel = discord.utils.get(ctx.guild.channels, id=547108815435464717)
+    team_1_vc = discord.utils.get(ctx.guild.channels, id=505023848425455616)
+    team_2_vc = discord.utils.get(ctx.guild.channels, id=505023650202648577)
     member_list = voice_channel.members
     choice1 = discord.Member
     choice2 = discord.Member
