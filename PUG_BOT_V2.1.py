@@ -7,7 +7,7 @@ import asyncio
 description = 'A pug bot for Overwatch Israel.'
 bot = commands.Bot(command_prefix='!', description=description)
 
-token = 'NTQyMDM0ODY1NDIwNTAxMDM1.D1rKrg.cze_9tUUWj7gMngCEmYxf6kgMbU'
+token = ''
 
 client = discord.client
 
