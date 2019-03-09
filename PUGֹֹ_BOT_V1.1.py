@@ -6,7 +6,7 @@ import datetime
 description = 'A pug bot for Overwatch Israel.'
 bot = commands.Bot(command_prefix='!', description=description)
 
-token = 'NTQyMDM0ODY1NDIwNTAxMDM1.DzoRcA.'
+token = ''
 
 client = discord.client
 
